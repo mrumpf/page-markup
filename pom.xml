@@ -20,15 +20,26 @@
   </licenses>
   
   <dependencies>
-  <!--
     <dependency>
       <groupId>org.jenkins-ci.main</groupId>
       <artifactId>jenkins-test-harness</artifactId>
       <version>1.424</version>
       <scope>test</scope>
     </dependency>
-    -->
   </dependencies>
+
+  <developers>
+    <developer>
+      <id>jdsiiro</id>
+      <name>John Siirola</name>
+      <email>jdsiiro@sandia.gov</email>
+    </developer>
+    <developer>
+      <id>mrumpf</id>
+      <name>Michael Rumpf</name>
+      <email>michael@rumpfonline.de</email>
+    </developer>
+  </developers>
 
   <profiles>
     <profile>
