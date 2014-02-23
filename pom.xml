@@ -10,7 +10,7 @@
   <packaging>hpi</packaging>
   <name>Page Markup Plug-in</name>
   <version>0.4-SNAPSHOT</version>
-  <url>https://software.sandia.gov/trac/fast/wiki/PageMarkup</url>
+  <url>https://github.com/mrumpf/page-markup</url>
   
   <licenses>
     <license>
@@ -40,6 +40,12 @@
       <email>michael@rumpfonline.de</email>
     </developer>
   </developers>
+
+  <scm>
+    <connection>scm:git:ssh://github.com/mrumpf/page-markup.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/mrumpf/page-markup.git</developerConnection>
+    <url>https://github.com/mrumpf/page-markup</url>
+  </scm>
 
   <profiles>
     <profile>
